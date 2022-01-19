@@ -1,16 +1,16 @@
 #!/bin/zsh
 ##################################################################################
-## conexao.sh - Shell script para loterias Caixa em modo WEB			##
-## Autor: Benedito Del Vecchio Junior						##
-## Data de criação: 12/01/2022							##
-## Descrição:									##
-##		- testa a conexão com o site www.mazusoft.com.br		##
-## Requisitos:	- necessita do programa lynx instalado				##
-##		- apache configurado e rodando					##
-##		- folha de estilo css definida					##
-## Exemplo de uso: ./conexao.sh							##
-## Modificações:	- 19/01/2022: 	-Retirada dos comandos "echo";		##
-##					-Comando "cat" envolvendo modelo html.	##
+## conexao.sh - Shell script para loterias Caixa em modo WEB					##
+## Autor: Benedito Del Vecchio Junior											##
+## Data de criação: 12/01/2022													##
+## Descrição:																	##
+##		- testa a conexão com o site www.mazusoft.com.br						##
+## Requisitos:	- necessita do programa lynx instalado							##
+##		- apache configurado e rodando											##
+##		- folha de estilo css definida											##
+## Exemplo de uso: ./conexao.sh													##
+## Modificações:	- 19/01/2022: 	-Retirada dos comandos "echo";				##
+##					-Comando "cat" envolvendo modelo html.						##
 ##################################################################################
 echo "Content-type: text/html"
 echo
@@ -37,6 +37,7 @@ initial-scale=1.0">
 		  <link href="estilos_css/conexao.css" rel="stylesheet">
  	</head>
  	<body>
+	 
 
     <div class="container">
 		<div class="box">
@@ -45,6 +46,7 @@ initial-scale=1.0">
 		</div>
 	</div>
 
+	
  	</body>
 </html>
 HTML
