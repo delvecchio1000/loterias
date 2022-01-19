@@ -1,0 +1,131 @@
+Conferência exata de dezenas
+Concurso: 2440
+ 
+8 15 22 34 37 58 ==> 1 acertos
+15 17 18 25 30 39 ==> 1 acertos
+6 13 25 28 38 58 ==> 0 acertos
+7 8 32 46 50 55 ==> 2 acertos
+8 21 37 40 52 58 ==> 0 acertos
+7 18 21 32 39 50 ==> 1 acertos
+5 23 28 34 49 60 ==> 1 acertos
+5 16 18 30 49 50 ==> 0 acertos
+6 11 17 24 26 37 ==> 0 acertos
+9 29 38 39 41 50 ==> 0 acertos
+6 23 27 33 40 49 ==> 2 acertos
+15 18 27 31 32 50 ==> 2 acertos
+4 20 44 46 49 53 ==> 1 acertos
+16 22 42 43 49 53 ==> 0 acertos
+5 14 39 42 43 57 ==> 0 acertos
+8 13 14 24 28 29 ==> 0 acertos
+6 19 27 34 42 55 ==> 0 acertos
+9 11 20 23 45 60 ==> 1 acertos
+7 13 14 32 40 49 ==> 1 acertos
+8 25 32 44 49 52 ==> 1 acertos
+9 11 14 19 28 42 ==> 0 acertos
+8 10 41 43 47 58 ==> 0 acertos
+5 18 38 45 53 57 ==> 0 acertos
+16 17 18 30 54 55 ==> 0 acertos
+7 17 26 38 47 58 ==> 0 acertos
+7 32 39 44 50 59 ==> 1 acertos
+6 22 39 42 54 57 ==> 0 acertos
+15 30 35 46 52 60 ==> 2 acertos
+10 15 17 37 56 57 ==> 1 acertos
+8 19 24 34 40 51 ==> 0 acertos
+2 9 29 30 37 45 ==> 0 acertos
+7 36 41 53 55 60 ==> 0 acertos
+8 23 33 40 44 59 ==> 2 acertos
+5 7 18 43 44 56 ==> 0 acertos
+8 12 14 35 40 43 ==> 1 acertos
+5 17 20 37 50 60 ==> 0 acertos
+18 22 23 39 41 53 ==> 1 acertos
+8 19 26 27 31 44 ==> 0 acertos
+8 31 35 38 41 42 ==> 0 acertos
+7 9 18 24 40 53 ==> 0 acertos
+7 9 15 51 54 58 ==> 1 acertos
+4 11 13 34 39 48 ==> 0 acertos
+15 27 28 34 45 54 ==> 1 acertos
+5 10 21 24 35 58 ==> 0 acertos
+4 11 15 21 30 51 ==> 1 acertos
+5 21 28 37 45 58 ==> 0 acertos
+5 18 23 32 41 49 ==> 2 acertos
+15 25 32 34 43 54 ==> 2 acertos
+8 16 23 28 39 57 ==> 1 acertos
+5 22 29 32 34 36 ==> 1 acertos
+9 21 25 29 32 40 ==> 1 acertos
+4 9 18 19 28 42 ==> 0 acertos
+5 19 22 29 51 60 ==> 0 acertos
+8 9 18 26 29 50 ==> 0 acertos
+ 
+4 acertos: 0
+5 acertos: 0
+6 acertos: 0
+ 
+Conferência aproximada de dezenas:
+ 
+8 15 22 34 37 58 ==> 3 acertos
+15 17 18 25 30 39 ==> 1 acertos
+6 13 25 28 38 58 ==> 1 acertos
+7 8 32 46 50 55 ==> 2 acertos
+8 21 37 40 52 58 ==> 0 acertos
+7 18 21 32 39 50 ==> 1 acertos
+5 23 28 34 49 60 ==> 2 acertos
+5 16 18 30 49 50 ==> 1 acertos
+6 11 17 24 26 37 ==> 2 acertos
+9 29 38 39 41 50 ==> 0 acertos
+6 23 27 33 40 49 ==> 2 acertos
+15 18 27 31 32 50 ==> 3 acertos
+4 20 44 46 49 53 ==> 1 acertos
+16 22 42 43 49 53 ==> 2 acertos
+5 14 39 42 43 57 ==> 1 acertos
+8 13 14 24 28 29 ==> 3 acertos
+6 19 27 34 42 55 ==> 1 acertos
+9 11 20 23 45 60 ==> 3 acertos
+7 13 14 32 40 49 ==> 3 acertos
+8 25 32 44 49 52 ==> 1 acertos
+9 11 14 19 28 42 ==> 2 acertos
+8 10 41 43 47 58 ==> 1 acertos
+5 18 38 45 53 57 ==> 1 acertos
+16 17 18 30 54 55 ==> 1 acertos
+7 17 26 38 47 58 ==> 1 acertos
+7 32 39 44 50 59 ==> 1 acertos
+6 22 39 42 54 57 ==> 1 acertos
+15 30 35 46 52 60 ==> 2 acertos
+10 15 17 37 56 57 ==> 1 acertos
+8 19 24 34 40 51 ==> 2 acertos
+2 9 29 30 37 45 ==> 1 acertos
+7 36 41 53 55 60 ==> 0 acertos
+8 23 33 40 44 59 ==> 2 acertos
+5 7 18 43 44 56 ==> 0 acertos
+8 12 14 35 40 43 ==> 2 acertos
+5 17 20 37 50 60 ==> 0 acertos
+18 22 23 39 41 53 ==> 2 acertos
+8 19 26 27 31 44 ==> 1 acertos
+8 31 35 38 41 42 ==> 1 acertos
+7 9 18 24 40 53 ==> 1 acertos
+7 9 15 51 54 58 ==> 1 acertos
+4 11 13 34 39 48 ==> 3 acertos
+15 27 28 34 45 54 ==> 3 acertos
+5 10 21 24 35 58 ==> 1 acertos
+4 11 15 21 30 51 ==> 2 acertos
+5 21 28 37 45 58 ==> 1 acertos
+5 18 23 32 41 49 ==> 2 acertos
+15 25 32 34 43 54 ==> 3 acertos
+8 16 23 28 39 57 ==> 2 acertos
+5 22 29 32 34 36 ==> 3 acertos
+9 21 25 29 32 40 ==> 1 acertos
+4 9 18 19 28 42 ==> 0 acertos
+5 19 22 29 51 60 ==> 1 acertos
+8 9 18 26 29 50 ==> 0 acertos
+ 
+0 acerto: 7
+1 acerto: 24
+2 acertos: 14
+3 acertos: 9
+4 acertos: 0
+5 acertos: 0
+6 acertos: 0
+
+Joguei 1 acima da dezena premiada: 25
+Joguei 1 abaixo da dezena premiada: 34
+Joguei 2 acima da dezena premiada: 29
+Joguei 2 abaixo da dezena premiada: 28

@@ -1,0 +1,25 @@
+.container {
+width: 100vw;
+height: 100vh;
+background: #6C7A89;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+}
+
+.box {
+text-align: center;
+width: auto;
+height: auto;
+padding: 0px 15px;
+background: #fff;
+}
+
+body {
+margin: 0px;
+}
+
+p {
+  color: #6C7A89;
+}
